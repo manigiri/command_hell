@@ -1,3 +1,5 @@
+// For command line git
+// GitHub modification
 #include<stido.h>
 
 int main(){
