@@ -1,7 +1,7 @@
 // For command line git
 // First : Local repository modification
 // Second : GitHub modification
->>>>>>> github/master
+
 #include<stido.h>
 
 int main(){
@@ -10,6 +10,7 @@ int main(){
 	printf("Hello sucker~~");
 	printf("MotherFucker~~");
 	printf("Damn~!");
+	printf("Tell me");
 
 	return 0;
 }
