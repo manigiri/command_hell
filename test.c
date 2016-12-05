@@ -1,5 +1,7 @@
 // For command line git
-// Local repository modification
+// First : Local repository modification
+// Second : GitHub modification
+>>>>>>> github/master
 #include<stido.h>
 
 int main(){
