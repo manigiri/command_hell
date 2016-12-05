@@ -1,3 +1,5 @@
+// For command line git
+// Local repository modification
 #include<stido.h>
 
 int main(){
